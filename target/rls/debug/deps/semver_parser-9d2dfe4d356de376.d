@@ -1,0 +1,11 @@
+/home/iot-dev/Documents/Rust_prac/stm_intrupts/target/rls/debug/deps/semver_parser-9d2dfe4d356de376.rmeta: /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/lib.rs /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/version.rs /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/range.rs /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/common.rs /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/recognize.rs
+
+/home/iot-dev/Documents/Rust_prac/stm_intrupts/target/rls/debug/deps/libsemver_parser-9d2dfe4d356de376.rlib: /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/lib.rs /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/version.rs /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/range.rs /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/common.rs /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/recognize.rs
+
+/home/iot-dev/Documents/Rust_prac/stm_intrupts/target/rls/debug/deps/semver_parser-9d2dfe4d356de376.d: /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/lib.rs /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/version.rs /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/range.rs /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/common.rs /home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/recognize.rs
+
+/home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/lib.rs:
+/home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/version.rs:
+/home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/range.rs:
+/home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/common.rs:
+/home/iot-dev/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/recognize.rs:

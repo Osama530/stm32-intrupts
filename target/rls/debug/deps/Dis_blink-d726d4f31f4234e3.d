@@ -1,0 +1,5 @@
+/home/iot-dev/Documents/Rust_prac/Dis-blink/target/rls/debug/deps/Dis_blink-d726d4f31f4234e3.rmeta: src/main.rs
+
+/home/iot-dev/Documents/Rust_prac/Dis-blink/target/rls/debug/deps/Dis_blink-d726d4f31f4234e3.d: src/main.rs
+
+src/main.rs:

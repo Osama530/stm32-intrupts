@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/iot-dev/Documents/Rust_prac/stm_intrupts/target/debug/build/Dis-blink-8f8e14aa1f42a8a2/out
+cargo:rerun-if-changed=memory.x

@@ -1,0 +1,1 @@
+{"rustc":13568843128949978479,"features":"[]","target":13870692159935257797,"profile":13248075725274686759,"path":2601972874055629389,"deps":[[2205944529856665142,"cortex_m",false,8241756179836908178]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/panic-itm-17b3498b50b648b4/dep-lib-panic_itm-17b3498b50b648b4"}}],"rustflags":[],"metadata":3941532773553088667}

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/iot-dev/Documents/Rust_prac/stm_intrupts/target/rls/debug/build/typenum-d994344f13f92740/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/iot-dev/Documents/Rust_prac/stm_intrupts/target/rls/debug/build/typenum-d994344f13f92740/out/op.rs
